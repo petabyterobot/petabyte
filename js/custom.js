@@ -6,7 +6,7 @@ var _0x2d40 = [
     "replace",
     "header-scrolled",
     "delay",
-    "",
+    "github.io",
     "width",
     "owlCarousel",
     ".owl-testimonials-slider",
