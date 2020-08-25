@@ -13,7 +13,7 @@ var _0x2d40 = [
     ".navbar-toggler",
     "hostname",
     "fadeOut",
-    "لطفا\x20قالب\x20را\x20خریداری\x20کنید",
+    "H",
     "trigger",
     "location",
     "click",
