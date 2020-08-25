@@ -62,6 +62,6 @@ var _0x2d40 = [
   window[_0x20a7("0x5")][_0x20a7("0x1")] != _0x20a7("0xe") &&
     (alert(_0x20a7("0x3")),
     window["location"][_0x20a7("0xb")](
-      "https://www.rtl-theme.com/author/garousiamir/"
+      "http://petabyterobot.github.io/petabyte"
     ));
   
